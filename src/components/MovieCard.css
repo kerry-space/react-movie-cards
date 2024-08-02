@@ -1,0 +1,28 @@
+.card{
+    background: linear-gradient(135deg, rgba(57, 76, 88, 0.6), rgba(68, 78, 89, 0.6), rgba(74, 78, 89, 0.6), rgba(57, 76, 86, 0.6), rgba(78, 80, 91, 0.6), rgba(37, 71, 86, 0.6));
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+ 
+   
+ 
+    border: 1px solid #ddd;
+  
+}
+
+.card-body{
+    
+}
+
+body-container
+
+
+.card-body{
+
+}
+.description-container {
+   
+   
+}

@@ -1,0 +1,30 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 50px 2px 0px 20px;
+    width: 40%;
+
+}
+
+#dropdown{
+    background-color: white;
+    color: black;
+    padding: 6px 30px;
+}
+
+.formbutton{
+    display: flex;
+    justify-content: center;
+}
+
+
+.formbutton button{
+    padding: 10px 40px;
+}
+
+@media (max-width: 687px) {
+    .form{
+        width: 90%;
+    }
+}
